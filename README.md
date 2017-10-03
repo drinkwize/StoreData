@@ -1,2 +1,2 @@
 # StoreData
-List of Store Location till May 2017
+List of Store Location till Sep 2017
